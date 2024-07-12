@@ -14,3 +14,7 @@ while (i++ < 5) {
   alert( i);
 }
 ```
+
+### Homework Finished 12/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
